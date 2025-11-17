@@ -1,12 +1,12 @@
 # <p align="center">
-  <img src="https://img.shields.io/badge/Modulation%20Demo-AM%20%7C%20BPSK-6A5ACD?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telecommunication-Signal%20Processing-8000FF?style=for-the-badge&logo=waveform&logoColor=white" />
 </p>
 
-<h1 align="center">📡 Simulasi Modulasi AM & BPSK</h1>
+<h1 align="center">✨ Modulation Demo — AM & BPSK ✨</h1>
 
 <p align="center">
-  <b>Python • Digital/Analog Modulation • AWGN • BER Analysis</b><br>
-  <i>Project Portofolio Teknik Telekomunikasi</i>
+  <b>Simulasi sinyal analog & digital menggunakan Python</b><br>
+  <i>AM • BPSK • AWGN • BER • Visualization</i>
 </p>
 
 ---
