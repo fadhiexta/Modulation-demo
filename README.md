@@ -1,12 +1,12 @@
 # Modulation Demo - AM & BPSK
 
 Project Python untuk simulasi modulasi AM dan BPSK lengkap dengan:
-- modulasi
-- demodulasi
-- penambahan noise AWGN
+- Modulasi
+- Demodulasi
+- Penambahan noise AWGN
 - BER (Bit Error Rate)
-- plotting sinyal (message, modulated, noisy, integrals)
-- audio output
+- Plotting sinyal (message, modulated, noisy, integrals)
+- Audio output
 
 Project ini dibuat untuk portofolio Teknik Telekomunikasi.
 
