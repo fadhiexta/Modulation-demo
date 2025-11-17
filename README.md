@@ -1,4 +1,16 @@
-# Modulation Demo - AM & BPSK
+# <p align="center">
+  <img src="https://img.shields.io/badge/Modulation%20Demo-AM%20%7C%20BPSK-6A5ACD?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<h1 align="center">📡 Simulasi Modulasi AM & BPSK</h1>
+
+<p align="center">
+  <b>Python • Digital/Analog Modulation • AWGN • BER Analysis</b><br>
+  <i>Project Portofolio Teknik Telekomunikasi</i>
+</p>
+
+---
+
 
 Project Python untuk simulasi modulasi AM dan BPSK lengkap dengan:
 - Modulasi
