@@ -1,17 +1,3 @@
-# <p align="center">
-  <img src="https://img.shields.io/badge/Telecommunication-Signal%20Processing-8000FF?style=for-the-badge&logo=waveform&logoColor=white" />
-</p>
-
-<h1 align="center">✨ Modulation Demo — AM & BPSK ✨</h1>
-
-<p align="center">
-  <b>Simulasi sinyal analog & digital menggunakan Python</b><br>
-  <i>AM • BPSK • AWGN • BER • Visualization</i>
-</p>
-
----
-
-
 Project Python untuk simulasi modulasi AM dan BPSK lengkap dengan:
 - Modulasi
 - Demodulasi
@@ -25,20 +11,20 @@ Project ini dibuat untuk portofolio Teknik Telekomunikasi.
 ## Cara menjalankan
 
 1. Aktifkan virtual environment:
-Windows (PowerShell):
+Windows (PowerShell) :
     python -m venv venv
     .\venv\Scripts\Activate.ps1
 
-2. Install pustaka:
+2. Install pustaka :
     python -m pip install -r requirements.txt
 
-3. Jalankan AM demo:
+3. Jalankan AM demo :
     python -m experiments.run_am_demo
 
-4. Jalankan BPSK demo:
+4. Jalankan BPSK demo :
     python -m experiments.run_bpsk_demo --snr 6 --bit-rate 100 --n-bits 256
 
-5. Jalankan BER sweep:
+5. Jalankan BER sweep :
     python -m experiments.run_bpsk_ber --snr-min 0 --snr-max 10 --snr-step 1 --n-bits 5000
 
 Hasil tersimpan di folder `results/plots` dan `results/audio`.
