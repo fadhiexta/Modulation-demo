@@ -10,7 +10,8 @@ Project ini dibuat untuk portofolio Teknik Telekomunikasi.
 
 ## Cara menjalankan
 
-1. Aktifkan virtual environment:
+1. Aktifkan virtual environment :
+
 Windows (PowerShell) :
     python -m venv venv
     .\venv\Scripts\Activate.ps1
