@@ -1,4 +1,4 @@
-# Modulation Demo — AM & BPSK
+# Modulation Demo - AM & BPSK
 
 Project Python untuk simulasi modulasi AM dan BPSK lengkap dengan:
 - modulasi
